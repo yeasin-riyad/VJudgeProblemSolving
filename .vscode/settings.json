@@ -2,6 +2,8 @@
     "files.associations": {
         ".env*": "dotenv",
         "iostream": "cpp",
-        "cmath": "cpp"
-    }
+        "cmath": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
